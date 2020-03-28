@@ -1,0 +1,20 @@
+body {
+    font: 10px sans-serif;
+}
+.vislink {
+    font-size: 300%;
+}
+.title {
+    font-size: 500%;
+}
+.description {
+    font-size: 200%;
+}
+.slice-text {
+    font-size: 150%;
+}
+.center-text {
+    line-height: 1;
+    font-weight: bold;
+    font-size: 200%;
+}

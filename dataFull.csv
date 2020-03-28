@@ -1,0 +1,19 @@
+Season,Team,SeasonOutcome,PointsE,CF%,SF%,GF%,xGF%,PDO
+2010/11,Vancouver Canucks,Lost SCF,117,52.5,51.51,58.9,50.68,1.015
+2011/12,New Jersey Devils,Lost SCF,102,50.68,50.6,51.31,52.01,1.01
+2012/13,Boston Bruins,Lost SCF,105.9166667,53.49,53.12,54.51,52.79,1.007
+2013/14,New York Rangers,Lost SCF,96,52.89,52.99,52.97,52.47,0.995
+2014/15,Tampa Bay Lightning,Lost SCF,108,51.27,51.5,55.7,52.11,1.01
+2015/16,San Jose Sharks,Lost SCF,98,51.73,52.6,53.38,54.62,1
+2016/17,Nashville Predators,Lost SCF,94,51.1,50.84,51.97,50.64,1.005
+2017/18,Vegas Golden Knights,Lost SCF,109,51.69,51.57,54.36,52.51,1.005
+2018/19,Boston Bruins,Lost SCF,107,52.56,52.59,54.8,52.26,1.005
+2010/11,Boston Bruins,Won SCF,103,50.68,50.12,56.35,49.29,1.024
+2011/12,Los Angeles Kings,Won SCF,95,53.5,52.74,52.51,52.69,0.989
+2012/13,Chicago Blackhawks,Won SCF,131.5416667,53.39,54.29,60.57,52.78,0.985
+2013/14,Los Angeles Kings,Won SCF,100,55.69,54.69,54.1,54.77,1.011
+2014/15,Chicago Blackhawks,Won SCF,102,54.21,52.85,54.19,52.37,1.004
+2015/16,Pittsburgh Penguins,Won SCF,104,52.4,52.77,54.77,54.71,1.006
+2016/17,Pittsburgh Penguins,Won SCF,111,49.8,50.74,54.83,52.24,1.012
+2017/18,Washington Capitals,Won SCF,105,47.73,47.66,51.82,46.39,1.017
+2018/19,St Louis Blues,Won SCF,99,51.7,52.62,52.59,52.83,1.002
